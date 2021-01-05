@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/LuisSotelo/05-CLIMA-MUNDO#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "yargs": "^13.2.2"
   }
 }
